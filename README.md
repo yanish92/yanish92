@@ -3,15 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanish92&label=Profile%20views&color=0e75b6&style=flat" alt="yanish92" /> </p>
 
-- 🔭 I’m currently working on [Urban_gents](https://github.com/yanish92/Urban_gents)
+- 🔭 I’m currently working on [Task Master]([https://github.com/yanish92/Urban_gents](https://dev-taskmasters86.pantheonsite.io/))
 
-- 🌱 I’m currently learning **Mern stack development, flutter mobile development**
+- 🌱 I’m currently learning **Laravel Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yanish92](https://github.com/yanish92)
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, React.js, Node.js**
 
 - 📫 How to reach me **yanish.hyder@gmail.com**
+
+- 🔭 My previous porject on [Urban Gents](https://github.com/yanish92/Urban_gents)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
