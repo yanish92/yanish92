@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Laravel Web Development**
 
-- 👨‍💻 All of my projects are available at [https://github.com/yanish92](https://github.com/yanish92)
+- 👨‍💻 All of my projects are available at [https://github.com/yanish92](https://github.com/yanish92?tab=repositories)
 
 - 💬 Ask me about **HTML5, CSS3, Javascript, React.js, Node.js**
 
