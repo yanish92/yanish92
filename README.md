@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm yanish Hyder</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate No Code & Low Code Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanish92&label=Profile%20views&color=0e75b6&style=flat" alt="yanish92" /> </p>
 
-- 🔭 I’m currently working on [Task Master](https://dev-taskmasters86.pantheonsite.io)
+- 🔭 I’m currently working on [Task Master](https://dev-taskmasters86.pantheonsite.io) and [Portfolio building site](https://yanishfida.bubbleapps.io/version-test/)
 
-- 🌱 I’m currently learning **Laravel Web Development**
+- 🌱 I’m currently learning **Bubble.io**
 
 - 👨‍💻 All of my projects are available at [https://github.com/yanish92](https://github.com/yanish92?tab=repositories)
 
-- 💬 Ask me about **HTML5, CSS3, Javascript, React.js, Node.js**
+- 💬 Ask me about **Wordpress, Bubble, Frammer, Webflow**
 
-- 📫 How to reach me **yanish.hyder@gmail.com**
+- 📫 How to reach me **yanish.fida@gmail.com**
 
 - 🔭 My previous porject on [Urban Gents](https://github.com/yanish92/Urban_gents)
 
