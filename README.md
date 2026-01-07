@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yanish92&label=Profile%20views&color=0e75b6&style=flat" alt="yanish92" /> </p>
 
-- 🔭 I’m currently working on [Task Master](https://dev-taskmasters86.pantheonsite.io) and [Portfolio building site](https://yanishfida.bubbleapps.io/version-test/)
 
 - 🌱 I’m currently learning **Bubble.io**
 
