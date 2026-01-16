@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Bubble.io**
 
-- 🌱 I’m currently working on [Spotify Clone - Bubble.io](https://my-spotify-clone-49269.bubbleapps.io/version-test/main_page)
+- 🌱 I’m currently working on [Spotify Clone - Bubble.io](https://my-spotify-clone-49269.bubbleapps.io/version-test/main_page?tab=Home)
 - 👨‍💻 All of my projects are available at [https://github.com/yanish92](https://github.com/yanish92?tab=repositories)
 
 - 💬 Ask me about **Wordpress, Bubble, Frammer, Webflow**
